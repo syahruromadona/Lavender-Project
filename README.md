@@ -1,3 +1,6 @@
+
+<img width="1024" height="688" alt="Lavender Banana (Compressed)" src="https://github.com/user-attachments/assets/ee57c857-786e-43f3-949e-97dcd580a1f3" />
+
 Hasny Furniture is a leading custom kitchen furniture manufacturer in Perak, having won multiple awards such as the TVET Entrepreneur Award from MARA Perak and finalist in Anugerah Usahawan Aura Manjung 2025 – Pembuatan category. Lavender Project aims to solve the high-cost and time-consuming process of creating beautiful client-ready renderings of client’s kitchen furniture before manufacturing begins.
 
 The project focused on optimizing an **in-house AI image generation pipeline** built around **ComfyUI** for a client-facing service. The original process was expensive and slow: each client deliverable cost approximately **RM800** to produce and took about **1 week** from request to completion. The core goal was to achieve a dramatic 100x cost reduction (targeting ~**RM8 per client** or equivalent), slash turnaround time to ~**1 day**, while strictly keeping the entire operation **in-house** to maintain full control and customization flexibility.
